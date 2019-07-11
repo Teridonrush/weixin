@@ -1,0 +1,10 @@
+Page({
+  data:{
+    info:[
+      {
+        label:'姓名',
+        value:'择优'
+      },
+                ]
+  }
+})
